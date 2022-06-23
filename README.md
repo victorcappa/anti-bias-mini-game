@@ -13,7 +13,7 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Musical Recycling</h3>
+<h3 align="center">Anti Bias</h3>
 
   <p align="center">
 Simple mini-game, made with Unity for the Sustainability Awareness Week.
