@@ -58,7 +58,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Reach out - <a href = "mailto: cappacurta@gmail.com.com">Victor Cappa</a>
 
 
-Share the project - [Musical recycling](https://github.com/victorcappa/anti-bias-mini-game)
+Share the project - [Anti Bias](https://github.com/victorcappa/anti-bias-mini-game)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
